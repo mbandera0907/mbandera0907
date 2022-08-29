@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mauricio Bandera
 - 👀 I’m interested in solid states physics, scientific computing and software development with python.
 - 🌱 I’m currently learning object oriented programming with Python.
-- 💞️ I’m looking to collaborate in scientific computing or software development or related areas.
+- 💞️ I’m looking to collaborate in scientific computing, software development or related areas.
 - 📫 How to reach me? Send me an e-mail to mbandera0907@gmail.com
 
 <!---
